@@ -22,7 +22,7 @@ run the application
 docker compose up
 ```
 
-Older docker docker run
+Older docker compose run
 ```bash
 docker-compose up
 ```
