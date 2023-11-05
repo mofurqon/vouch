@@ -5,7 +5,7 @@
 
 ## Installation
 ### Step 1 ###
-Make sure you have installed Docker in your local computer
+Make sure you have installed Docker and Docker Compose in your local computer
 
 build Frontend
 ```bash
@@ -18,6 +18,11 @@ docker build -t "vouch-be" ./vouch-be/
 ```
 
 run the application 
+```bash
+docker compose up
+```
+
+Older docker docker run
 ```bash
 docker-compose up
 ```
