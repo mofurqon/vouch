@@ -5,7 +5,7 @@
 
 ## Installation
 ### Step 1 ###
-Make sure you have installed Docker and Docker Compose in your local computer
+Make sure you have installed Docker and docker compose in your local computer [installation](https://docs.docker.com/engine/install/)
 
 build Frontend
 ```bash
